@@ -111,11 +111,11 @@ let habilitado = true;
 //com desconto se nao mostre a mensagem
 // compra sem desconto
 
-let valor = 501;
-let desconto = 0.20;
- if (valor > 501) {
-    let total = valor - desconto;a
-    console.log("valor total com desconto:R$ " + total);
- } else {
-    console.log("compra sem desconto");
- }
+// let valor = 501;
+// let desconto = 0.20;
+//  if (valor > 501) {
+//     let total = valor - desconto;a
+//     console.log("valor total com desconto:R$ " + total);
+//  } else {
+//     console.log("compra sem desconto");
+//  }
